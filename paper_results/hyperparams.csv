@@ -1,0 +1,5 @@
+,Best_Params
+Logistic Regression,{'C': 10}
+KNN,{'n_neighbors': 5}
+Random Forest,"{'max_depth': 20, 'n_estimators': 100}"
+SVM,"{'C': 10, 'gamma': 0.01}"
